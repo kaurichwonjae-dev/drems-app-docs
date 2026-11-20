@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaurichwonjae-dev.github.io/drems-app-docs/sitemap.xml
